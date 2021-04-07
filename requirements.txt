@@ -1,0 +1,5 @@
+globus_sdk
+fair-research-login
+funcx
+funcx_endpoint
+jupyterlab

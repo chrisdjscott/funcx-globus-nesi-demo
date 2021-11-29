@@ -1,5 +1,5 @@
-globus_sdk
-fair-research-login
-funcx
-funcx_endpoint
+globus_sdk==2.0.1
+fair-research-login==0.2.4
+funcx==0.3.4
+funcx_endpoint==0.3.4
 jupyterlab

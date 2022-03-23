@@ -1,3 +1,4 @@
-funcx==0.3.4
-funcx_endpoint==0.3.4
+funcx==0.3.6
+funcx_endpoint==0.3.6
+globus_sdk>=3
 jupyterlab
